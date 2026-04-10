@@ -82,7 +82,7 @@ This module is designed to give you a foundational understanding of the key conc
 ### 2. Controls
 - PID Control  
 - Bicycle Model  
-- Stanley Controller  
+- Pure Pursuit Controller  
 
 ---
 
@@ -94,7 +94,7 @@ By the end of this module, you will be able to:
 - Build a velocity profile that respects physical constraints  
 - Implement and tune a PID controller for velocity tracking  
 - Understand the kinematic bicycle model  
-- Implement a Stanley controller for path tracking  
+- Implement a Pure Pursuit controller for path tracking  
 - Simulate and animate your car following the trajectory using Matplotlib  
 
 ---
@@ -105,7 +105,7 @@ By the end of this module, you will be able to:
 |------------|------------------------------|--------------------------------------------|
 | 📍 Checkpoint 1 | Interpolation     | Interpolation of given waypoints       |
 | 📍 Checkpoint 2 | Optimization | Optimized path     |
-| 📍 Checkpoint 3 | PID & Stanley Control                  | Tuning of controllers   |
+| 📍 Checkpoint 3 | PID & Pure Pursuit Control                  | Tuning of controllers   |
 | 📍 Checkpoint 4 | The Final Implementation          | Complete implementation of PPC pipline     |
 
 
