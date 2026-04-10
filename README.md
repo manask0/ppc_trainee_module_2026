@@ -10,7 +10,7 @@ Our goal is to enable our car to **race autonomously between blue and yellow con
 ### What We’ve Achieved So Far
 - **Delaunay Triangulation** for fast and smooth raceline generation  
 - **Optimized racelines** to reduce lap time  
-- **PID**, **Pure Pursuit** and **Stanley Controllers** for tracking paths  
+- **PID**, **Pure Pursuit** for tracking paths  
 - **Velocity profiling** based on curvature  
 
 ### 🔬 What We’re Currently Working On
