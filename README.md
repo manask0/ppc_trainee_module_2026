@@ -58,7 +58,7 @@ Together, they allow our autonomous race car to drive dynamically and intelligen
 - Fork this repository on your github and then clone that forked repository to your pc to start working on it
 - Run this command to install all the required libraries - ```pip3 install -r requirements.txt```
 - You need to commit and push the changes onto your forked remote repository after you complete each checkpoint
-- Trainees are required to update the shared task sheet: [**Module Progress**](https://docs.google.com/spreadsheets/d/1hXMS8LUICqV97NlydCMAdYh4nwJZYO785qBW0F9S0BI/edit?gid=131938418#gid=131938418)
+- Trainees are required to update the shared task sheet: [**Module Progress**]()
 - **Documentation is mandatory** for each checkpoint:
   - Create a Google Doc titled `PPC_Module_YourName`
   - Submit all the required code snippets= and videos/gifs in the doc
