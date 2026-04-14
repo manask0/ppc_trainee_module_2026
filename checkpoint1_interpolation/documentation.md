@@ -3,6 +3,10 @@ Git Workflow for using forked repos :
 2) cd ppc_trainee_module_2026
 3) git remote add upstream https://github.com/ppc_trainee_module_2026.git
 4) git checkout -b CheckPoint1_Soln
+5) Edit files
+6) git add .
+   git commit -m "message"
+   git push
 
 
 ----------------------
