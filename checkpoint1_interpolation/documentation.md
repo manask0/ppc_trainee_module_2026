@@ -1,3 +1,13 @@
+Progress Tracker 
+- [x] Cubic Interpolation Without Libraries
+- [x] Interpolation using scipy libraries
+- [ ] Linear Interpolation of Task - 02
+
+
+
+
+
+
 Git Workflow for using forked repos : 
 1) git clone https://github.com/manask0/ppc_trainee_module_2026
 2) cd ppc_trainee_module_2026
@@ -45,3 +55,4 @@ $$
 Assignment_01 : Interpolation without libraries
 Given - 4 discrete points in increasing orders of x.
 We need to find 3 cubic polynomials. $S_0, S_1, S_2$
+------------------------
