@@ -26,10 +26,8 @@ We choose interpolation instead of choosing a sinlge polynomial n (one lesser th
 
 ### Linear Spline Interpolation
 $$
-f_1(x) = Y_i + \frac{Y_{i+1}-Y_i}{X_{i+1}-X_i}(x-X_i), \;\mid\;
-
-X_i<=x<=X_{i+1}
-
+f_1(x)=Y_i+\frac{Y_{i+1}-Y_i}{X_{i+1}-X_i}(x-X_i),
+\qquad X_i\le x\le X_{i+1}
 $$
 Drawbacks
 1) Interior Knot : An interior data point which is a knot, ie shared by two data points.
