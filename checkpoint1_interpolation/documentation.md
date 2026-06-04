@@ -46,9 +46,9 @@ Let S(x) be a cubic polynomial denoted by $S_i(x)$ on \[$x_i, x_{i+1}$]
 Then, we need 4n equations. 2n come from 2 data points per spline. n-1 come from equating first derivatives at n-1 interior knots. n-1 come from equating second derivatives at interior knots. For the two additional required equations, we either equate second derivatives at both end ponts to 0 (this is called natural/ free boundary) or equate slope of first and last splines at first and last data points to the corresponding slopes of the function whose values at nodes (the n+1 points) are taken to generate the n+1 data points (this is called clamped boundary)
 
 to make calculations simpler we prefer representing splines in the shifted form, ie 
-$$
+```math
 S_i(x) = a_i + b_i(x-x_i) + c_i(x-x_i)^2 + d_i(x-x_i)^3
-$$
+```
 -----------------------------
 Assignment_01 : Interpolation without libraries
 Given - 4 discrete points in increasing orders of x.
