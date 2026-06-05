@@ -185,6 +185,8 @@
   },
   "active": "518563ff80f90843",
   "lastOpenFiles": [
+    "checkpoint4_the_final_implementation/__pycache__/utilities.cpython-313.pyc",
+    "checkpoint4_the_final_implementation/__pycache__",
     "Documentation_Links.md",
     "Codumentation_Links",
     "Pasted image 20260605192044.png",
@@ -197,7 +199,6 @@
     "checkpoint3_controls/venv/lib/python3.13/site-packages/ipykernel-7.2.0.dist-info/RECORD",
     "checkpoint3_controls/venv/lib/python3.13/site-packages/ipykernel-7.2.0.dist-info/METADATA",
     "checkpoint3_controls/venv/lib/python3.13/site-packages/ipykernel-7.2.0.dist-info/INSTALLER",
-    "checkpoint3_controls/venv/lib/python3.13/site-packages/ipykernel-7.2.0.dist-info",
     "checkpoint3_controls/venv/lib/python3.13/site-packages/ipykernel/resources/logo-svg.svg",
     "checkpoint3_controls/venv/lib/python3.13/site-packages/ipykernel/resources/logo-64x64.png",
     "checkpoint3_controls/venv/lib/python3.13/site-packages/ipykernel/resources/logo-32x32.png",
@@ -229,7 +230,6 @@
     "checkpoint2_optimization_velocity/venv/lib/python3.13/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
     "checkpoint2_optimization_velocity/venv/lib/python3.13/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
     "checkpoint2_optimization_velocity/venv/lib/python3.13/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
-    "checkpoint2_optimization_velocity/venv/lib/python3.13/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
-    "checkpoint2_optimization_velocity/venv/lib/python3.13/site-packages/numpy-2.4.6.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md"
+    "checkpoint2_optimization_velocity/venv/lib/python3.13/site-packages/numpy-2.4.6.dist-info/licenses/numpy/random/src/distributions/LICENSE.md"
   ]
 }
