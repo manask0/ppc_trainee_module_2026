@@ -52,6 +52,8 @@ row += 1
 # Solving system of eqns
 coeffs = np.linalg.solve(A, t)
 
+print(coeffs)
+
 def spline(i, xi):
     a = coeffs[4*i]
     b_ = coeffs[4*i + 1]
